@@ -44,12 +44,7 @@ Scopdrag\LaravelGoogleChart\LaravelGoogleChartServiceProvider::class,
 
 ```
 
-
-cmd
-```
-$ php artisan vendor:publish
-```
-
+ 
 
 ## Usage
 Use this code in your controller file and pass cols, rows and options to view
