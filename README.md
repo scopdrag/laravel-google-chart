@@ -37,7 +37,7 @@ $ composer require scopdrag/laravel-google-chart
 Use this command to publish charts views.
 
 ``` bash
-$ php artisan serve
+$ php artisan vendor:publish
 ```
 
 
