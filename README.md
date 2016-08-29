@@ -5,7 +5,7 @@
 [![Total Downloads][ico-downloads]][link-downloads]
 
 
-This package is very offer simple and easy integration of google charts with laravel .
+This package offers simple and easy integration of google charts with laravel .
 
 ##Features: 
 -Fast and simple . Also you can provide Google chart options to documneted on google Chart API by creating a multidiemsional PHP Araay.
