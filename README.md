@@ -34,6 +34,13 @@ Via Composer
 ``` bash
 $ composer require scopdrag/laravel-google-chart
 ```
+Use this command to publish charts views.
+
+``` bash
+$ php artisan serve
+```
+
+
 
 Registering provider
 
