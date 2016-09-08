@@ -10,10 +10,10 @@ Updates should follow the [Keep a CHANGELOG](http://keepachangelog.com/) princip
 - Nothing
 
 ### Deprecated
-- Nothing
+- Outdated dependencies.
 
 ### Fixed
-- Nothing
+- Updated outdated dependencies.
 
 ### Removed
 - Nothing
