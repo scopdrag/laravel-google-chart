@@ -8,7 +8,7 @@
 This package offers simple and easy integration of google charts with laravel .
 
 ##Features: 
--Fast and simple . Also you can provide Google chart options to documneted on google Chart API by creating a multidiemsional PHP Araay.
+-Fast and simple . Also you can provide Google chart options to documneted on google Chart API by creating a multidiemsional PHP array.
 - Multiple Chart of same and different types can be loaded on same page. 
 
 Credit: Thanks to google chart API
