@@ -21,4 +21,7 @@ interface Factory {
     public function setRows($rows = []);
 
     public function render();
+    
+    public function render1();
+
 }
