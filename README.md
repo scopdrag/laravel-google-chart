@@ -7,7 +7,7 @@
 
 This package offers simple and easy integration of google charts with laravel .
 
-##Features: 
+## Features: 
 -Fast and simple . Also you can provide Google chart options to documneted on google Chart API by creating a multidiemsional PHP array.
 - Multiple Chart of same and different types can be loaded on same page. 
 
@@ -143,7 +143,7 @@ $options = [
 
 
 
-##Bar chart
+## Bar chart
 ``` php
                  
                 
@@ -186,7 +186,7 @@ blade.php file code
 ```
 
 
-##Coloring bar chart
+## Coloring bar chart
 ``` php
                 $options = [
                     'title' => 'Population of Largest U.S. Cities',
@@ -227,7 +227,7 @@ blade.php file code
 
                  
 
-##Stacaked Bar Chart
+## Stacked Bar Chart
 ``` php
                 $options = [
                     'width' => 800,
@@ -306,7 +306,7 @@ blade.php file code
 
 
 
-##Candlestick charts
+## Candlestick charts
 ``` php
 
                 $rows = [
@@ -342,7 +342,7 @@ blade.php file code
 
 
 
-##Waterfall charts
+## Waterfall charts
 
 ``` php
                 $rows = [
@@ -387,7 +387,7 @@ blade.php file code
 
 
 
-##Combo Chart
+## Combo Chart
 
 ``` php
                 $cols = ['Month', 'Bolivia', 'Ecuador', 'Madagascar', 'Papua New Guinea', 'Rwanda', 'Average'];
@@ -428,7 +428,7 @@ blade.php file code
 
 
 
-##Pie Chart
+## Pie Chart
                
 ``` php
                 $cols = ['Major', 'Degrees'];
@@ -457,7 +457,7 @@ blade.php file code
 
 
 
-##3D Pie Chart
+## 3D Pie Chart
 ``` php
                 $cols = ['Major', 'Degrees'];
                 $rows = [
@@ -486,7 +486,7 @@ blade.php file code
 ```
 
 
-##ScatterChart
+## ScatterChart
 
 ``` php
                 $cols = ['Age', 'Weight'];
@@ -528,7 +528,7 @@ blade.php file code
 ```        
 
 
-##Stepped Chart
+## Stepped Chart
 ``` php
                 $cols = ['Director (Year)', 'Rotten Tomatoes', 'IMDB'];
                 $rows = [
@@ -559,7 +559,7 @@ blade.php file code
 
 ```
 
-##Tree Map Charts
+## Tree Map Charts
 
 ``` php
                 $cols = ['Location', 'Parent', 'Market trade volume (size)', 'Market increase/decrease (color)'];
@@ -618,7 +618,7 @@ blade.php file code
 
 ```
 
-##Scatter Chart
+## Scatter Chart
 ``` php
                 $cols = ['Diameter', 'Age'];
                 $rows = [
@@ -660,7 +660,7 @@ blade.php file code
 
 
 
-##Word tree charts
+## Word tree charts
 ``` php
                 $cols = ['Phrases'];
                 $rows = [
